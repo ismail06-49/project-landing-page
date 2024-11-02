@@ -1,5 +1,7 @@
 # Landing Page
 
+![Page](./src/assets/scren/screencapture-localhost-5173-2024-11-02-15_42_00.png)
+
 ## Description
 
 This project is a web application built using React and styled with Bootstrap. It features a clean and organized layout that includes several key components, each serving a specific purpose:
